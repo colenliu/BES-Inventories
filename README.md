@@ -1,4 +1,4 @@
-# inventorymanagement
+# BES Inventories
 
 A personal project involving a Java inventory management program that prompts and accepts user input. Currently, the program currently 
 has 3 separate inventories: bakery, electronic, and sports. Reading and writing functionality in supported in the form of load and
